@@ -1,0 +1,170 @@
+{
+  "@odata.context": "https://procura-maluca.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 6.2741623,
+      "content": "\n\n\nReview: My favorite part about going to Fourth Coffee is the atmosphere. I love the warm lights and plants. It’s a great place to go get a cup of coffee while working on your next business idea or with friends at school. It’s also right next to the University hub, which makes it so easy to access for students. It just gets so busy on the weekends! I wish it was not so crowded. Since they started offering amazing breakfast sandwiches, I wouldn’t try to go get a coffee Saturday morning.  \nDate: September 1, 2018\nLocation: Los Angeles, California \nimage1.png\n\n\n\nimage2.png\n\n\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hcm1hemVuYXRlc3RlZmFiaW8uYmxvYi5jb3JlLndpbmRvd3MubmV0L2NvZmZlZXJldmlld3MvcmV2aWV3LTIuZG9jeA2",
+      "locations": [
+        "school",
+        "University hub",
+        "Los Angeles",
+        "California"
+      ],
+      "keyphrases": [
+        "next business idea",
+        "amazing breakfast sandwiches",
+        "favorite part",
+        "warm lights",
+        "great place",
+        "University hub",
+        "Los Angeles",
+        "Fourth Coffee",
+        "Review",
+        "atmosphere",
+        "plants",
+        "cup",
+        "friends",
+        "school",
+        "students",
+        "weekends",
+        "Date",
+        "September",
+        "Location",
+        "California"
+      ],
+      "sentiment": "[\"positive\"]",
+      "merged_content": "\n\n\nReview: My favorite part about going to Fourth Coffee is the atmosphere. I love the warm lights and plants. It’s a great place to go get a cup of coffee while working on your next business idea or with friends at school. It’s also right next to the University hub, which makes it so easy to access for students. It just gets so busy on the weekends! I wish it was not so crowded. Since they started offering amazing breakfast sandwiches, I wouldn’t try to go get a coffee Saturday morning.  \nDate: September 1, 2018\nLocation: Los Angeles, California \nimage1.png\n  \n\n\nimage2.png\n T \n\n\n",
+      "text": [
+        "",
+        "T"
+      ],
+      "layoutText": [
+        "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}",
+        "{\"language\":\"en\",\"text\":\"T\",\"lines\":[{\"boundingBox\":[{\"x\":809,\"y\":32},{\"x\":837,\"y\":31},{\"x\":836,\"y\":56},{\"x\":808,\"y\":55}],\"text\":\"T\"}],\"words\":[{\"boundingBox\":[{\"x\":815,\"y\":31},{\"x\":831,\"y\":31},{\"x\":831,\"y\":56},{\"x\":815,\"y\":56}],\"text\":\"T\"}]}"
+      ],
+      "imageTags": [
+        "wall",
+        "indoor",
+        "furniture",
+        "clothing",
+        "interior design",
+        "person",
+        "kitchen & dining room table",
+        "countertop",
+        "desk",
+        "ceiling",
+        "stool",
+        "coffee table",
+        "floor",
+        "woman",
+        "window",
+        "table",
+        "kitchen",
+        "chair",
+        "room",
+        "cafe",
+        "furniture",
+        "indoor",
+        "interior design",
+        "houseplant",
+        "wall",
+        "house",
+        "floor",
+        "coffee table",
+        "musical instrument",
+        "table",
+        "chair",
+        "flooring",
+        "clothing",
+        "musical keyboard",
+        "couch",
+        "studio couch",
+        "person",
+        "room",
+        "plant",
+        "piano",
+        "ceiling",
+        "home"
+      ],
+      "imageCaption": [
+        "{\"tags\":[\"indoor\",\"wall\",\"floor\",\"ceiling\"],\"captions\":[{\"text\":\"a person sitting at a table\",\"confidence\":0.53540337085723877}]}",
+        "{\"tags\":[\"floor\",\"indoor\",\"living\",\"room\",\"plant\",\"furniture\",\"dining table\"],\"captions\":[{\"text\":\"a person sitting in a chair\",\"confidence\":0.43682509660720825}]}"
+      ]
+    },
+    {
+      "@search.score": 2.1566274,
+      "content": "\n\nReview: The great thing about this Fourth Coffee location is that there’s an event space for talks. I went to one the other day that focused on giving students a place to present their latest research. The event room is also perfect for larger groups or clubs to meet up. Just be aware that weekends it can get really crowded, which I don’t like. \nDate: October 11, 2018\nLocation: Los Angeles, California\t\nimage1.png\n\n\n\nimage2.png\n\n\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hcm1hemVuYXRlc3RlZmFiaW8uYmxvYi5jb3JlLndpbmRvd3MubmV0L2NvZmZlZXJldmlld3MvcmV2aWV3LTcuZG9jeA2",
+      "locations": [
+        "Fourth Coffee location",
+        "event room",
+        "Los Angeles",
+        "California"
+      ],
+      "keyphrases": [
+        "Fourth Coffee location",
+        "great thing",
+        "event space",
+        "latest research",
+        "event room",
+        "larger groups",
+        "Los Angeles",
+        "Review",
+        "talks",
+        "students",
+        "place",
+        "clubs",
+        "weekends",
+        "Date",
+        "October",
+        "California"
+      ],
+      "sentiment": "[\"positive\"]",
+      "merged_content": "\n\nReview: The great thing about this Fourth Coffee location is that there’s an event space for talks. I went to one the other day that focused on giving students a place to present their latest research. The event room is also perfect for larger groups or clubs to meet up. Just be aware that weekends it can get really crowded, which I don’t like. \nDate: October 11, 2018\nLocation: Los Angeles, California\t\nimage1.png\n  \n\n\nimage2.png\n . .. ..... \n\n\n",
+      "text": [
+        "",
+        ". .. ....."
+      ],
+      "layoutText": [
+        "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}",
+        "{\"language\":\"en\",\"text\":\". .. .....\",\"lines\":[{\"boundingBox\":[{\"x\":371,\"y\":289},{\"x\":415,\"y\":282},{\"x\":417,\"y\":292},{\"x\":373,\"y\":298}],\"text\":\". ..\"},{\"boundingBox\":[{\"x\":366,\"y\":303},{\"x\":428,\"y\":294},{\"x\":429,\"y\":303},{\"x\":367,\"y\":312}],\"text\":\".....\"}],\"words\":[{\"boundingBox\":[{\"x\":377,\"y\":290},{\"x\":382,\"y\":289},{\"x\":383,\"y\":297},{\"x\":378,\"y\":298}],\"text\":\".\"},{\"boundingBox\":[{\"x\":391,\"y\":287},{\"x\":410,\"y\":284},{\"x\":411,\"y\":293},{\"x\":393,\"y\":296}],\"text\":\"..\"},{\"boundingBox\":[{\"x\":366,\"y\":304},{\"x\":424,\"y\":295},{\"x\":426,\"y\":304},{\"x\":368,\"y\":313}],\"text\":\".....\"}]}"
+      ],
+      "imageTags": [
+        "clothing",
+        "person",
+        "indoor",
+        "man",
+        "footwear",
+        "human face",
+        "woman",
+        "wall",
+        "jeans",
+        "people",
+        "sitting",
+        "group",
+        "laptop",
+        "indoor",
+        "computer",
+        "furniture",
+        "wall",
+        "desk",
+        "table",
+        "personal computer",
+        "space bar",
+        "output device",
+        "netbook",
+        "wooden",
+        "touchpad",
+        "coffee",
+        "mac",
+        "sitting",
+        "floor"
+      ],
+      "imageCaption": [
+        "{\"tags\":[\"person\",\"group\",\"people\"],\"captions\":[{\"text\":\"a person teaching a class\",\"confidence\":0.46982303261756897}]}",
+        "{\"tags\":[\"text\",\"floor\",\"indoor\",\"wooden\",\"electronics\",\"wood\",\"computer\"],\"captions\":[{\"text\":\"a laptop on a table\",\"confidence\":0.4974440336227417}]}"
+      ]
+    }
+  ]
+}
